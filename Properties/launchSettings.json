@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPLogsFilter": {
+      "commandName": "Project",
+      "commandLineArgs": "-c C:\\C#\\TasksAndPuzzles\\EffectiveMobileTT\\IPLogsFilter\\AppData\\Config\\config.json"
+    }
+  }
+}

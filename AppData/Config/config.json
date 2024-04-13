@@ -1,0 +1,14 @@
+{
+  "configuration": {
+    "file-log": "C:\\C#\\TasksAndPuzzles\\EffectiveMobileTT\\IPLogsFilter\\AppData\\Input\\IPAccessLogs.csv",
+    "file-output": "C:\\C#\\TasksAndPuzzles\\EffectiveMobileTT\\IPLogsFilter\\AppData\\Output\\FiltredIPlogs.csv",
+    "filter": {
+      "address-start": "192.168.1.1",
+      "address-mask": 24,
+      "time-start": "05.10.2000",
+      "time-end": "10.03.2023"
+
+    }
+  }
+  
+}
